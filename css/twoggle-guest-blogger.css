@@ -1,0 +1,57 @@
+/* 
+    Document   : twoggle-guest-blogger
+    Created on : 21/06/2014, 2:03:55 PM
+    Author     : Gvanto
+    Description:
+        Styles for Twoggle Guest Blogger WordPress plugin
+*/
+
+.twgb-error {
+   color: #ff0000;
+   font-weight: bold;
+}
+
+.twgb-success {
+   color: #007a00;
+   font-weight: bold;
+}
+
+.twgb-field {
+   margin: 1rem 0 0 0;
+}
+
+.twgb-field .title {
+   font-weight: bold;
+}
+
+.twgb-field .post_tag_title {
+   font-size:0.7rem;
+   font-style: italic;
+}
+
+.twgb-content-toolbar input {
+   margin: 0 0.5em 1em 0;
+   padding: 0.1em;
+}
+
+.twgb-field #img-info, .twgb-field #content-info {
+   font-size:0.7rem;
+   display: none;
+   margin-bottom: 0.5em;
+}
+
+#twgb-chkimg {
+   margin-top: 1rem;
+}
+
+#twgb-chkimg-text {
+   display: inline;
+}
+
+#twgb-img {
+   display: none;
+}
+
+.by-twoggle-row {
+    
+}
